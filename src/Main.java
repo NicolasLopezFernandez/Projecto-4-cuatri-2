@@ -3,7 +3,7 @@
 public class Main {
     public static void main(String[] args) {
 
-assn
+assnn
         MyClass myObject = new MyClass();
         myObject.myMethod();
     }
