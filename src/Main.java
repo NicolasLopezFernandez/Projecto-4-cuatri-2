@@ -3,9 +3,7 @@
 public class Main {
     public static void main(String[] args) {
 
-        // Create a new object of the class
-        // and call the method
-        // using the object
+
         MyClass myObject = new MyClass();
         myObject.myMethod();
     }
